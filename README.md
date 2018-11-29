@@ -7,7 +7,7 @@
 ```bash
 $ git clone https://github.com/pelligit/static-httpserver.git
 
-$ cd static-httpserver & npm install
+$ cd static-httpserver && npm install
 
 # 开启本地服务器
 $ npm start
